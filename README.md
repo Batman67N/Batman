@@ -144,3 +144,33 @@
     </div>
 </body>
 </html>
+
+<!-- payment.html -->
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta name="google-site-verification" content="ar_YYI1Ycxdc-UXH761e3KlQ1W37qllOvjZyGlAx0hM" />
+    <title>تفاصيل الدفع</title>
+    <style>
+        body {
+            font-family: 'Tajawal', sans-serif;
+            background-color: #121212;
+            color: #fff;
+            text-align: center;
+            padding: 50px;
+        }
+        .payment-details {
+            background: #1e1e1e;
+            padding: 20px;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>تفاصيل الدفع</h1>
+    <div class="payment-details">
+        <p>رقم الحساب البنكي: SA4805000068204605302000</p>
+        <p>للتواصل والدعم: <a href="https://wa.me/966595813184">اضغط هنا</a></p>
+    </div>
+</body>
+</html>
