@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>متجر الرجل الوطاط</title>
-    <meta name="google-site-verification" content="YOUR_GOOGLE_VERIFICATION_CODE" />
+    <meta name="google-site-verification" content="ar_YYI1Ycxdc-UXH761e3KlQ1W37qllOvjZyGlAx0hM" />
     <style>
         body {
             font-family: 'Tajawal', sans-serif;
@@ -77,6 +77,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>تفاصيل المنتج - سكربت K1</title>
+    <meta name="google-site-verification" content="ar_YYI1Ycxdc-UXH761e3KlQ1W37qllOvjZyGlAx0hM" />
     <style>
         body {
             font-family: 'Tajawal', sans-serif;
@@ -128,6 +129,7 @@
         }
     </style>
 </head>
+  <meta name="google-site-verification" content="ar_YYI1Ycxdc-UXH761e3KlQ1W37qllOvjZyGlAx0hM" />
 <body>
     <div class="container">
         <h1>تفاصيل سكربت K1</h1>
@@ -149,7 +151,9 @@
 <!DOCTYPE html>
 <html lang="ar">
 <head>
-  <meta name="google-site-verification" content="ar_YYI1Ycxdc-UXH761e3KlQ1W37qllOvjZyGlAx0hM" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="google-site-verification" content="ar_YYI1Ycxdc-UXH761e3KlQ1W37qllOvjZyGlAx0hM" />
     <title>تفاصيل الدفع</title>
     <style>
         body {
