@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>متجر الرجل الوطاط</title>
-    <meta name="google-site-verification" content="ar_YYI1Ycxdc-UXH761e3KlQ1W37qllOvjZyGlAx0hM" />
+   <meta name="google-site-verification" content="ar_YYI1Ycxdc-UXH761e3KlQ1W37qllOvjZyGlAx0hM" />
     <style>
         body {
             font-family: 'Tajawal', sans-serif;
